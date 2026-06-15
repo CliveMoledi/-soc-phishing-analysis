@@ -35,8 +35,12 @@ I went i ahead and downloaded this file(Their phishing kit)
 
 <img width="1522" height="1528" alt="Screenshot 2026-06-15 at 13 35 52" src="https://github.com/user-attachments/assets/fc4470a3-dedc-42da-b050-756e60a84ebb" />
 
-went to terminal and got the sha256 hash
+went to terminal and got the sha256 hash: ba3c15267393419eb08c7b2652b8b6b39b406ef300ae8a18fee4d16b19ac9686
 <img width="626" height="480" alt="Screenshot 2026-06-15 at 13 55 10" src="https://github.com/user-attachments/assets/9b041cd1-9731-4935-adc1-b7d092587249" />
+
+I'm gonna go ahead and paste it on [Virus Total](https://www.virustotal.com/gui/home/search) to quickly determine whether a file is known and malicious.
+<img width="709" height="661" alt="Screenshot 2026-06-15 at 14 01 48" src="https://github.com/user-attachments/assets/3bbb9a9e-0750-4f4e-a83e-d1b69f9c502d" />
+
 
 
 
