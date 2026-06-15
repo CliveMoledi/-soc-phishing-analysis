@@ -5,4 +5,5 @@ I have a set of 5 emails. I'm gonna start by investigating "Quote for Services R
 
 
 <img width="2879" height="1344" alt="Screenshot 2026-06-15 at 11 41 53" src="https://github.com/user-attachments/assets/04a80509-0009-4305-9577-5cb8405fe5a9" />
-
+Let's open the email.We have a plathera of information we can work with. The most fundamenatal artifact to lookout for is who the email was sent to, because the recipient list tells you the scope and intent of the attack. The recipient is: William McClean.
+W
