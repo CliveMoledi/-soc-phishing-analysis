@@ -2,11 +2,11 @@
 
 ## Objectives
 
--Analyze the provided email samples to identify key artifacts
--Investigate phishing URLs to understand redirection
--Retrieve and examine the phishing kit used in the attack
--Use CTI tools to gather intelligence on the adversary
--Analyze the phishing kit to uncover additional indicators
+- Analyze the provided email samples to identify key artifacts
+- Investigate phishing URLs to understand redirection
+- Retrieve and examine the phishing kit used in the attack
+- Use CTI tools to gather intelligence on the adversary
+- Analyze the phishing kit to uncover additional indicators
 
 <img width="2880" height="1348" alt="Screenshot 2026-06-15 at 11 39 22" src="https://github.com/user-attachments/assets/cd87e6ad-3e98-4e03-bf48-31f033b84bc4" />
 I have a set of 5 emails. I'm gonna start by investigating "Quote for Services Rendered" email.
