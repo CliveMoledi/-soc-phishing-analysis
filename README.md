@@ -41,6 +41,11 @@ went to terminal and got the sha256 hash: ba3c15267393419eb08c7b2652b8b6b39b406e
 I'm gonna go ahead and paste it on [Virus Total](https://www.virustotal.com/gui/home/search) to quickly determine whether a file is known and malicious.
 <img width="709" height="661" alt="Screenshot 2026-06-15 at 14 01 48" src="https://github.com/user-attachments/assets/3bbb9a9e-0750-4f4e-a83e-d1b69f9c502d" />
 
+Update365.zip is a confirmed malicious true positive, with 30 out of 62 vendors classifying it as a Trojan and a phishing delivery mechanism.The archive uses masquerading as an Office 365 update to deceive targets, making it a high-risk indicator for credential harvesting.
+
+<img width="2880" height="1434" alt="Screenshot 2026-06-15 at 14 04 19" src="https://github.com/user-attachments/assets/5f08f570-6fcf-439d-af4a-69842b63d6f1" />
+
+
 
 
 
