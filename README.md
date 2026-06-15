@@ -27,3 +27,16 @@ I went ahead and downloaded the file and opened it.NB this is a sandboxed envirn
 The web page looks like a regular microsoft login page for the organisation. One thing that stoodout was the root domain. It was not from Microsoft and that screamed redflag. I need to further investigate this.
 <img width="2880" height="1566" alt="Screenshot 2026-06-15 at 12 59 09" src="https://github.com/user-attachments/assets/3f09a25b-fe00-4cbc-8535-4e2c82b2ad7c" />
 
+---
+
+I Navigated to the /data directory to see if i can find something of interest<img width="2880" height="1537" alt="Screenshot 2026-06-15 at 13 30 44" src="https://github.com/user-attachments/assets/f70636dc-33b1-41cc-b94d-4447132aac0e" />
+.
+I went i ahead and downloaded this file(Their phishing kit)
+
+<img width="1522" height="1528" alt="Screenshot 2026-06-15 at 13 35 52" src="https://github.com/user-attachments/assets/fc4470a3-dedc-42da-b050-756e60a84ebb" />
+
+went to terminal and got the sha256 hash
+<img width="626" height="480" alt="Screenshot 2026-06-15 at 13 55 10" src="https://github.com/user-attachments/assets/9b041cd1-9731-4935-adc1-b7d092587249" />
+
+
+
