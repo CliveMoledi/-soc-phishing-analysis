@@ -19,4 +19,11 @@ Let's open the email.We have a plathera of information we can work with. The mos
 - We can also see that the email of the sender is : Accounts.Payable@groupmarketingonline.icu
 
 ---
+We have an email that was sent to Zoe Duncan that has a html attachment which i'm interested in. 
+<img width="2880" height="1530" alt="Screenshot 2026-06-15 at 13 09 37" src="https://github.com/user-attachments/assets/a4b8b2ae-60a0-461b-ad98-014a85246fbb" />
+I went ahead and downloaded the file and opened it.NB this is a sandboxed envirnment that's why i opened the file.
+<img width="2880" height="1353" alt="Screenshot 2026-06-15 at 12 23 11" src="https://github.com/user-attachments/assets/a2aa4971-7a0f-4a6c-b101-c1dc3a28db75" />
+
+The web page looks like a regular microsoft login page for the organisation. One thing that stoodout was the root domain. It was not from Microsoft and that screamed redflag. I need to further investigate this.
+<img width="2880" height="1566" alt="Screenshot 2026-06-15 at 12 59 09" src="https://github.com/user-attachments/assets/3f09a25b-fe00-4cbc-8535-4e2c82b2ad7c" />
 
