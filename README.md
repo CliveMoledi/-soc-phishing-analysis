@@ -45,6 +45,12 @@ Update365.zip is a confirmed malicious true positive, with 30 out of 62 vendors 
 
 <img width="2880" height="1434" alt="Screenshot 2026-06-15 at 14 04 19" src="https://github.com/user-attachments/assets/5f08f570-6fcf-439d-af4a-69842b63d6f1" />
 
+---
+
+I want to go ahead and open the phishing kit(/Update365/office365/Validation/) 
+to look around and discover what email address is used by the adversary to collect compromised credentials.Which I found the Update365/office365/Validation/submit.php is the one responsible for submit button which will send email to m3npat@yandex.com
+
+<img width="1435" height="688" alt="Screenshot 2026-06-15 at 14 45 48" src="https://github.com/user-attachments/assets/e2258035-65df-4fca-a3bc-823b22abd3ee" />
 
 
 
